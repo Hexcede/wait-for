@@ -1,0 +1,6 @@
+{
+	"name": "wait-for",
+	"tree": {
+		"$path": "src"
+	}
+}

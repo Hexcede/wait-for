@@ -1,0 +1,9 @@
+{
+	"name": "wait-for-sourcemap",
+	"tree": {
+		"$path": "Packages/",
+		"WaitFor": {
+			"$path": "src/"
+		}
+	}
+}
